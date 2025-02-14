@@ -53,7 +53,7 @@ Transportadora e serviços ltda
 </head>
 <body>
     <header>
-        Expresso São José - Transportes Rápidos e Seguros
+        Expresso São José - Transportes Fretes e Mudanças
     </header>
     <nav>
         <a href="#sobre">Sobre</a>
